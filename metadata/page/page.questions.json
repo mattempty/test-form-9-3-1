@@ -1,0 +1,83 @@
+{
+  "_id": "page.questions",
+  "_type": "page.form",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "_id": "page.questions--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.questions--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Show A",
+          "value": "auto_value__1"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.questions--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Show B",
+          "value": "auto_value__2"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.questions--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Show C",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "What to show?",
+      "name": "auto_name__1"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "_id": "page.questions--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.questions--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "One",
+          "name": "auto_name__3"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.questions--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Two",
+          "name": "auto_name__4"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.questions--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "Three",
+          "name": "auto_name__5"
+        }
+      ],
+      "legend": "Add..."
+    }
+  ],
+  "heading": "Select what you want",
+  "url": "questions"
+}
