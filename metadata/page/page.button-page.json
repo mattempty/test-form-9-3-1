@@ -2,6 +2,16 @@
   "_id": "page.button-page",
   "_type": "page.form",
   "actionType": "confirm",
+  "components": [
+    {
+      "_id": "page.button-page--text.auto_name__2",
+      "_type": "text",
+      "label": "Text Field",
+      "name": "auto_name__2",
+      "show": true,
+      "value": "any old string"
+    }
+  ],
   "heading": "Confirm Page",
   "url": "button-page"
 }
