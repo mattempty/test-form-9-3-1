@@ -6,7 +6,9 @@
   "lede": "This is your start page first paragraph. You can only have one paragraph here.",
   "steps": [
     "page.questions",
+    "page.logic",
     "page.cya",
+    "page.button-page",
     "page.confirmation"
   ],
   "url": "/"

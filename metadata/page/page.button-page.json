@@ -1,0 +1,7 @@
+{
+  "_id": "page.button-page",
+  "_type": "page.form",
+  "actionType": "confirm",
+  "heading": "Confirm Page",
+  "url": "button-page"
+}

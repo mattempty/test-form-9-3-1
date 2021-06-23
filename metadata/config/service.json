@@ -4,6 +4,8 @@
   "_type": "config.service",
   "attachUserSubmission": true,
   "emailInputNameUser": "{form_email_address}",
-  "emailSubjectUser": "Test Email",
+  "emailSubjectTeam": "Form team email subject",
+  "emailSubjectUser": "CC email subject",
+  "emailTemplateTeam": "{cya-content}",
   "emailTemplateUser": "{cya--content}"
 }

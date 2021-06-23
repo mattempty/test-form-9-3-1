@@ -1,0 +1,32 @@
+{
+  "_id": "page.logic",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.logic--content",
+      "_type": "content",
+      "html": "Display this content which first radio is selected. [Content]",
+      "show": {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "auto_value__1"
+      }
+    },
+    {
+      "_id": "page.logic--text.auto_name__11",
+      "_type": "text",
+      "attributes": "",
+      "classes": "bob",
+      "label": "content auto_name__11",
+      "name": "auto_name__11",
+      "show": {
+        "identifier": "auto_name__1",
+        "operator": "is",
+        "value": "auto_value__1"
+      },
+      "value": "Display this content which first radio is selected. [Input]"
+    }
+  ],
+  "heading": "Test Page",
+  "url": "logic"
+}
