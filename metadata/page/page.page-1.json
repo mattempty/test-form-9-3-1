@@ -1,0 +1,63 @@
+{
+  "_id": "page.page-1",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.page-1--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.page-1--checkboxes--checkbox.auto_name__13",
+          "_type": "checkbox",
+          "label": "Option 1",
+          "name": "auto_name__13",
+          "value": "e[EMAIL_1]"
+        },
+        {
+          "_id": "page.page-1--checkboxes--checkbox.auto_name__14",
+          "_type": "checkbox",
+          "label": "Option 2",
+          "name": "auto_name__14",
+          "value": "e[EMAIL_1]"
+        },
+        {
+          "_id": "page.page-1--checkboxes--checkbox.auto_name__15",
+          "_type": "checkbox",
+          "label": "Option 3",
+          "name": "auto_name__15",
+          "value": "e[EMAIL_2]"
+        },
+        {
+          "_id": "page.page-1--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "label": "Option 4",
+          "name": "auto_name__16",
+          "value": "e[EMAIL_2]"
+        },
+        {
+          "_id": "page.page-1--checkboxes--checkbox.auto_name__17",
+          "_type": "checkbox",
+          "label": "Option 5",
+          "name": "auto_name__17",
+          "value": "e[EMAIL_2]"
+        },
+        {
+          "_id": "page.page-1--checkboxes--checkbox.auto_name__18",
+          "_type": "checkbox",
+          "label": "Option 6",
+          "name": "auto_name__18",
+          "value": "e[EMAIL_2]"
+        },
+        {
+          "_id": "page.page-1--checkboxes--checkbox.auto_name__19",
+          "_type": "checkbox",
+          "label": "Option 7",
+          "name": "auto_name__19",
+          "value": "e[EMAIL_2]"
+        }
+      ],
+      "legend": "Select some checkboxes?"
+    }
+  ],
+  "url": "page-1"
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "page.question",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question--textarea.auto_name__20",
+      "_type": "textarea",
+      "label": "Add some text?",
+      "name": "auto_name__20"
+    }
+  ],
+  "show": true,
+  "url": "question-1"
+}

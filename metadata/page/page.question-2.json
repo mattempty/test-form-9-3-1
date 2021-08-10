@@ -1,0 +1,26 @@
+{
+  "_id": "page.question-2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.question-2--textarea.auto_name__21",
+      "_type": "textarea",
+      "label": "Why do you like - Email 2?",
+      "name": "auto_name__21"
+    }
+  ],
+  "show": {
+    "conditionsType": "exactly",
+    "exactly": [
+      {
+        "identifier": "auto_name__15",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__16",
+        "operator": "defined"
+      }
+    ]
+  },
+  "url": "question-2"
+}
