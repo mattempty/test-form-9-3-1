@@ -2,10 +2,10 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "attachUserSubmission": true,
-  "emailInputNameUser": "{form_email_address}",
-  "emailSubjectTeam": "Form team email subject",
-  "emailSubjectUser": "CC email subject",
-  "emailTemplateTeam": "{cya-content}",
-  "emailTemplateUser": "{cya--content}"
+  "attachUserSubmission": false,
+  "emailInputNameUser": "",
+  "emailSubjectTeam": "",
+  "emailSubjectUser": "",
+  "emailTemplateTeam": "",
+  "emailTemplateUser": ""
 }
