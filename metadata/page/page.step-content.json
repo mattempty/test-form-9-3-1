@@ -1,0 +1,10 @@
+{
+  "_id": "page.step-content",
+  "_type": "page.content",
+  "actionType": "custom-1",
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "defined"
+  },
+  "url": "step-content"
+}

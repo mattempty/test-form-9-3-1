@@ -38,7 +38,13 @@
         }
       ],
       "legend": "What to show?",
-      "name": "auto_name__1"
+      "name": "auto_name__1",
+      "validation": {
+        "required": {
+          "identifier": "auto_name__12",
+          "operator": "defined"
+        }
+      }
     },
     {
       "$component": true,
@@ -84,6 +90,10 @@
       "value": "hidden field"
     }
   ],
+  "enableSteps": true,
   "heading": "Select what you want",
+  "steps": [
+    "page.step-content"
+  ],
   "url": "questions"
 }

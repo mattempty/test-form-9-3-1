@@ -2,6 +2,7 @@
   "_id": "page.cya",
   "_type": "page.summary",
   "actionType": "confirm",
+  "classes": "bob",
   "components": [
     {
       "$component": true,
@@ -12,6 +13,6 @@
       "value": "anything"
     }
   ],
-  "show": false,
+  "show": true,
   "url": "cya"
 }

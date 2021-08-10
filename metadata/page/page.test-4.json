@@ -1,0 +1,15 @@
+{
+  "_id": "page.test-4",
+  "_type": "page.exit",
+  "components": [
+    {
+      "_id": "page.test-4--inset",
+      "_type": "inset"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "defined"
+  },
+  "url": "test-4"
+}
